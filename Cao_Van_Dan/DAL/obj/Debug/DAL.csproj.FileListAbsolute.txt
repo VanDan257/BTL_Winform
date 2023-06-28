@@ -1,0 +1,9 @@
+D:\BTL Winform\Cao_Van_Dan\DAL\bin\Debug\DAL.dll
+D:\BTL Winform\Cao_Van_Dan\DAL\bin\Debug\DAL.pdb
+D:\BTL Winform\Cao_Van_Dan\DAL\bin\Debug\Entities.dll
+D:\BTL Winform\Cao_Van_Dan\DAL\bin\Debug\Entities.pdb
+D:\BTL Winform\Cao_Van_Dan\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\BTL Winform\Cao_Van_Dan\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\BTL Winform\Cao_Van_Dan\DAL\obj\Debug\DAL.dll
+D:\BTL Winform\Cao_Van_Dan\DAL\obj\Debug\DAL.pdb
+D:\BTL Winform\Cao_Van_Dan\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\BTL Winform\Cao_Van_Dan\BUS\bin\Debug\BUS.dll
+D:\BTL Winform\Cao_Van_Dan\BUS\bin\Debug\BUS.pdb
+D:\BTL Winform\Cao_Van_Dan\BUS\bin\Debug\DAL.dll
+D:\BTL Winform\Cao_Van_Dan\BUS\bin\Debug\Entities.dll
+D:\BTL Winform\Cao_Van_Dan\BUS\bin\Debug\DAL.pdb
+D:\BTL Winform\Cao_Van_Dan\BUS\bin\Debug\Entities.pdb
+D:\BTL Winform\Cao_Van_Dan\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\BTL Winform\Cao_Van_Dan\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\BTL Winform\Cao_Van_Dan\BUS\obj\Debug\BUS.dll
+D:\BTL Winform\Cao_Van_Dan\BUS\obj\Debug\BUS.pdb
+D:\BTL Winform\Cao_Van_Dan\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
